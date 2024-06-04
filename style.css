@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #f15656
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+a{
+    font-size: 50px;
+    color : #000000
+
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+img {
+    width : 1100px;
+    height : 700px;
+    }
